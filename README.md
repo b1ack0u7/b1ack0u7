@@ -6,8 +6,7 @@
 </div>
 
 <h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="img" src="https://images.prismic.io/www-static/9544065f-de1e-47c3-9f17-806b84c292c0_Kubernetes_FullStack_blog.png?auto=compress,format"/>
 
 
 - 🔭 I’m currently working on [Remir](https://github.com/b1ack0u7/Remir.git) an ios App
