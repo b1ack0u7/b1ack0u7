@@ -61,7 +61,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1ack0u7&show_icons=true&locale=en&layout=compact" alt="b1ack0u7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b1ack0u7&show_icons=true&locale=en" alt="b1ack0u7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b1ack0u7&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&locale=en" alt="b1ack0u7" /></p>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
