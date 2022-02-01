@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently studing at college
 
-- 👯 I’m looking to collaborate or help on issues
+- 🤜 I’m looking to collaborate or help on issues
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio] -->
 
