@@ -25,12 +25,12 @@
   
 <h3> Mobile </h3>
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="swiftUI"/> </a>
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/> </a>
  
 <h3> Design / Front End </h3>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-161637?style=for-the-badge&logo=figma&logoColor=00e5ff" alt="figma"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
 
 <h3> Back End & Databases </h3>
 <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
@@ -49,6 +49,8 @@
 
 <!--
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-543DE0?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> </a> 
+
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/b1ack0u7'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
