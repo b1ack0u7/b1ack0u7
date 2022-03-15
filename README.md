@@ -41,14 +41,15 @@
   
 <h3> Other </h3>
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://img.shields.io/badge/Swift-FF4500?style=for-the-badge&logo=swift&logoColor=white" alt="swiftui"/> </a> 
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-543DE0?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> </a> 
+<a href="https://es.reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/> </a>
 </p>
 
 <!--
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-543DE0?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> </a> 
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/b1ack0u7'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
