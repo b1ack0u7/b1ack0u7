@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi, my name is Axel and I'm a multi-technology developer.
+<div size='20px'> Hi, my name is Axel and I'm a full stack developer.
 </div>
 
 <h2> About Me </h2>
