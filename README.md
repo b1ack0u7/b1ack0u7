@@ -27,22 +27,26 @@
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="swiftUI"/> </a>
  
 <h3> Design / Front End </h3>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-161637?style=for-the-badge&logo=figma&logoColor=00e5ff" alt="figma"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> 
+<a href="https://es.reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> </a> 
+<a href="https://vuejs.org/guide/introduction.html" target="_blank"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/> </a>
+<br>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-161637?style=for-the-badge&logo=figma&logoColor=00e5ff" alt="figma"/> </a>
+<br>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
 
 <h3> Back End & Databases </h3>
-<a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
 <br>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase"/> </a>
   
 <h3> Other </h3>
+<a href="https://es.redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a> 
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://img.shields.io/badge/Swift-FF4500?style=for-the-badge&logo=swift&logoColor=white" alt="swiftui"/> </a> 
-<a href="https://es.reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
+<br>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/> </a>
 </p>
