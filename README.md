@@ -1,4 +1,5 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >!</h1>
+<!--<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: '50px'"> -->
 <p align='center'>
 
 </p>
@@ -19,8 +20,8 @@
 
 - 💬 Talk to me about SwiftUI, UX ideas or Freelancing Opportunites
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
+<h2> Skills </h2>
+<!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> -->
 <p align="left"> 
   
 <h3> Mobile </h3>
@@ -67,7 +68,7 @@
 <br>
 -->
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ack0u7&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ack0u7&layout=compact&theme=dracula&&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53&langs_count=10&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
