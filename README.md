@@ -10,7 +10,7 @@
 <img width="35%" align="right" alt="img" src="https://images.prismic.io/www-static/9544065f-de1e-47c3-9f17-806b84c292c0_Kubernetes_FullStack_blog.png?auto=compress,format"/>
 
 
-- 🔭 I’m currently working on [Remir](https://github.com/b1ack0u7/Remir.git) an ios App
+- 🔭 I’m currently working on [Remir](https://github.com/b1ack0u7/Remir.git) an ios App and a clone of Spotify
 
 - 🌱 I’m currently studing at college
 
@@ -37,7 +37,8 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
 
 <h3> Back End & Databases </h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/> </a>
 <br>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
