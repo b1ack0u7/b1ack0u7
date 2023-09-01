@@ -29,7 +29,6 @@
  
 <h3> Design / Front End </h3>
 <a href="https://es.reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> </a> 
-<a href="https://vuejs.org/guide/introduction.html" target="_blank"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/> </a>
 <br>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-161637?style=for-the-badge&logo=figma&logoColor=00e5ff" alt="figma"/> </a>
 <br>
@@ -43,7 +42,10 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase"/> </a>
-  
+
+<h3>Cloud / Infrastructure</h3>
+<a href="https://cloud.google.com/?hl=es" target="_blank"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/> </a>
+
 <h3> Other </h3>
 <a href="https://es.redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a> 
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://img.shields.io/badge/Swift-FF4500?style=for-the-badge&logo=swift&logoColor=white" alt="swiftui"/> </a> 
