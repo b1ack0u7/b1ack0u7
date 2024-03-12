@@ -73,7 +73,7 @@
 
 <h2> My GitHub Stats </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ack0u7&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ack0u7&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ack0u7&layout=compact&theme=dracula&&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53&langs_count=10&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
